@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5d30a54-8afe-4ce7-af61-9702ab2a9bfb" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/async/.babelrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/async/actions/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/async/components/Picker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/async/components/Posts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/async/containers/App.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/async/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/async/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/async/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/async/reducers/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/async/server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/async/store/configureStore.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/async/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/counter/.babelrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/counter/actions/counter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/counter/components/Counter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/counter/containers/App.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/counter/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/counter/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/counter/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/counter/reducers/counter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/counter/reducers/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/counter/server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/counter/store/configureStore.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/counter/test/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/counter/test/actions/counter.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/counter/test/components/Counter.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/counter/test/containers/App.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/counter/test/reducers/counter.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/counter/test/setup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/counter/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/real-world/.babelrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/real-world/actions/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/real-world/components/Explore.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/real-world/components/List.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/real-world/components/Repo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/real-world/components/User.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/real-world/containers/App.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/real-world/containers/DevTools.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/real-world/containers/RepoPage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/real-world/containers/Root.dev.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/real-world/containers/Root.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/real-world/containers/Root.prod.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/real-world/containers/UserPage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/real-world/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/real-world/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/real-world/middleware/api.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/real-world/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/real-world/reducers/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/real-world/reducers/paginate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/real-world/routes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/real-world/server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/real-world/store/configureStore.dev.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/real-world/store/configureStore.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/real-world/store/configureStore.prod.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/real-world/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/shopping-cart/actions/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/shopping-cart/api/products.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/shopping-cart/api/shop.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/shopping-cart/components/Cart.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/shopping-cart/components/Product.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/shopping-cart/components/ProductItem.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/shopping-cart/components/ProductsList.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/shopping-cart/constants/ActionTypes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/shopping-cart/containers/App.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/shopping-cart/containers/CartContainer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/shopping-cart/containers/ProductsContainer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/shopping-cart/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/shopping-cart/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/shopping-cart/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/shopping-cart/reducers/cart.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/shopping-cart/reducers/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/shopping-cart/reducers/products.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/shopping-cart/server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/shopping-cart/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/todomvc/actions/todos.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/todomvc/components/Footer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/todomvc/components/MainSection.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/todomvc/constants/ActionTypes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/todomvc/constants/TodoFilters.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/todomvc/test/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/todomvc/test/actions/todos.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/todomvc/test/components/Footer.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/todomvc/test/components/Header.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/todomvc/test/components/MainSection.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/todomvc/test/components/TodoItem.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/todomvc/test/components/TodoTextInput.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/todomvc/test/reducers/todos.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/todomvc/test/setup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/todos-with-undo/.babelrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/todos-with-undo/actions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/todos-with-undo/components/AddTodo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/todos-with-undo/components/Footer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/todos-with-undo/components/Todo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/todos-with-undo/components/TodoList.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/todos-with-undo/containers/App.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/todos-with-undo/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/todos-with-undo/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/todos-with-undo/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/todos-with-undo/reducers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/todos-with-undo/server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/todos-with-undo/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/universal/client/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/universal/common/actions/counter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/universal/common/api/counter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/universal/common/components/Counter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/universal/common/containers/App.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/universal/common/reducers/counter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/universal/common/reducers/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/universal/common/store/configureStore.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/universal/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/universal/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/universal/server/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/universal/server/server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/universal/webpack.config.js" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/todomvc/components/TodoItem.js" afterPath="$PROJECT_DIR$/examples/todomvc/components/Toggle.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/todomvc/components/TodoTextInput.js" afterPath="$PROJECT_DIR$/examples/todomvc/components/TodoList.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/todomvc/containers/App.js" afterPath="$PROJECT_DIR$/examples/todomvc/containers/App.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/todomvc/components/Header.js" afterPath="$PROJECT_DIR$/examples/todomvc/components/Header.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/helpers/actionCreators.js" afterPath="$PROJECT_DIR$/test/helpers/actionCreators.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/helpers/actionTypes.js" afterPath="$PROJECT_DIR$/test/helpers/actionTypes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/utils/applyMiddleware.spec.js" afterPath="$PROJECT_DIR$/test/utils/applyMiddleware.spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/utils/bindActionCreators.spec.js" afterPath="$PROJECT_DIR$/test/utils/bindActionCreators.spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/utils/combineReducers.spec.js" afterPath="$PROJECT_DIR$/test/utils/combineReducers.spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/utils/compose.spec.js" afterPath="$PROJECT_DIR$/test/utils/compose.spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/createStore.spec.js" afterPath="$PROJECT_DIR$/test/createStore.spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/todomvc/index.js" afterPath="$PROJECT_DIR$/examples/todomvc/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/todomvc/reducers/index.js" afterPath="$PROJECT_DIR$/examples/todomvc/reducers/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/utils/isPlainObject.spec.js" afterPath="$PROJECT_DIR$/test/utils/isPlainObject.spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/utils/mapValues.spec.js" afterPath="$PROJECT_DIR$/test/utils/mapValues.spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/helpers/middleware.js" afterPath="$PROJECT_DIR$/test/helpers/middleware.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/utils/pick.spec.js" afterPath="$PROJECT_DIR$/test/utils/pick.spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/helpers/reducers.js" afterPath="$PROJECT_DIR$/test/helpers/reducers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/todomvc/reducers/todos.js" afterPath="$PROJECT_DIR$/examples/todomvc/reducers/todos.js" />
+    </list>
+    <ignored path="redux.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="redux" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/examples/todomvc/components/MainSection.js" />
+        <option value="$PROJECT_DIR$/examples/todomvc/store/configureStore.js" />
+        <option value="$PROJECT_DIR$/examples/todomvc/webpack.config.js" />
+        <option value="$PROJECT_DIR$/examples/todomvc/actions/todos.js" />
+        <option value="$PROJECT_DIR$/examples/todos-with-undo/containers/App.js" />
+        <option value="$PROJECT_DIR$/examples/todomvc/components/TodoTextInput.js" />
+        <option value="$PROJECT_DIR$/examples/todomvc/components/TodoItem.js" />
+        <option value="$PROJECT_DIR$/examples/todomvc/reducers/index.js" />
+        <option value="$PROJECT_DIR$/examples/todomvc/reducers/todos.js" />
+        <option value="$PROJECT_DIR$/examples/todomvc/containers/App111.js" />
+        <option value="$PROJECT_DIR$/examples/todomvc/index.js" />
+        <option value="$PROJECT_DIR$/examples/todomvc/components/Footer.js" />
+        <option value="$PROJECT_DIR$/examples/todomvc/components/Header.js" />
+        <option value="$PROJECT_DIR$/examples/todomvc/components/Toggle.js" />
+        <option value="$PROJECT_DIR$/examples/todomvc/containers/App.js" />
+        <option value="$PROJECT_DIR$/examples/todomvc/components/TodoList.js" />
+        <option value="$PROJECT_DIR$/examples/todomvc/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="725" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="redux" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="redux" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="redux-todo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="redux" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="redux-todo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="examples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="redux" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="redux-todo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="examples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="todomvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="redux" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="redux-todo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="examples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="todomvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reducers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="redux" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="redux-todo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="examples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="todomvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="containers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="redux" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="redux-todo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="examples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="todomvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="editor.config.accepted" value="true" />
+    <property name="JavaScriptLanguageLevel" value="JSX" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5d30a54-8afe-4ce7-af61-9702ab2a9bfb" name="Default" comment="" />
+      <created>1447728114291</created>
+      <option name="number" value="Default" />
+      <updated>1447728114291</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="725" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16912971" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.026272578" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/examples/todomvc/containers/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <marker date="1448275213000" expanded="true" signature="-1:-1" placeholder="&lt;xml/&gt;" />
+            <marker date="1448275213000" expanded="true" signature="-1:-1" placeholder="&lt;xml/&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/todomvc/components/TodoList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/buildAll.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/testAll.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/todomvc/components/Toggle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/todomvc/components/Header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/todomvc/components/Footer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/todomvc/node_modules/todomvc-app-css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="97" column="15" selection-start-line="97" selection-start-column="15" selection-end-line="97" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/todomvc/reducers/todos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/todomvc/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/todomvc/node_modules/classnames/benchmarks/run.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46471602">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/todomvc/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.3333335">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/todomvc/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/todomvc/node_modules/classnames/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.64772725">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.666667">
+          <caret line="74" column="4" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/todomvc/reducers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28070176">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/todomvc/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5964912">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/todomvc/store/configureStore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/todomvc/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5576592">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/todomvc/reducers/todos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/todomvc/node_modules/todomvc-app-css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="97" column="15" selection-start-line="97" selection-start-column="15" selection-end-line="97" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/todomvc/containers/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <marker date="1448275213000" expanded="true" signature="-1:-1" placeholder="&lt;xml/&gt;" />
+            <marker date="1448275213000" expanded="true" signature="-1:-1" placeholder="&lt;xml/&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/testAll.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/buildAll.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/todomvc/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/todomvc/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35920176">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/todomvc/components/Header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/todomvc/components/Toggle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45188284">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/todomvc/components/TodoList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.037656903">
+          <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/todomvc/components/Footer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.52719665">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
